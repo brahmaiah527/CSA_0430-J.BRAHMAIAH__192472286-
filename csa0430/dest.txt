@@ -1,2 +1,0 @@
-Hello OS Lab!
-File Copy using system calls.
